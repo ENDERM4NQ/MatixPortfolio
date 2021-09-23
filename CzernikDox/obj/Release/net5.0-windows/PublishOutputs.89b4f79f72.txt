@@ -1,0 +1,5 @@
+C:\Users\Kacper\Documents\MyProjects\CzernikDox\CzernikDox\bin\Release\net5.0-windows\publish\CzernikDox.exe
+C:\Users\Kacper\Documents\MyProjects\CzernikDox\CzernikDox\bin\Release\net5.0-windows\publish\CzernikDox.dll
+C:\Users\Kacper\Documents\MyProjects\CzernikDox\CzernikDox\bin\Release\net5.0-windows\publish\CzernikDox.deps.json
+C:\Users\Kacper\Documents\MyProjects\CzernikDox\CzernikDox\bin\Release\net5.0-windows\publish\CzernikDox.runtimeconfig.json
+C:\Users\Kacper\Documents\MyProjects\CzernikDox\CzernikDox\bin\Release\net5.0-windows\publish\CzernikDox.pdb
