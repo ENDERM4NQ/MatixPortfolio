@@ -4,7 +4,7 @@ Matix/Mareczekkk dox/DigitalPortfolio
 I was bored LAMO
 (I cant be asked to  add translated version so translation below)
 Imie = Name
-Nazwisko = LastNam
+Nazwisko = LastName
 Numer = Phone Number
 Adress = Home Adress
 
