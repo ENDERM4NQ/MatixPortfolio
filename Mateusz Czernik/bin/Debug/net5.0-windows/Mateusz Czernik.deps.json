@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Mateusz Czernik/1.0.0": {
+        "runtime": {
+          "Mateusz Czernik.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mateusz Czernik/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

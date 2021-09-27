@@ -1,0 +1,5 @@
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\bin\Release\net5.0-windows\publish\Mateusz Czernik.exe
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\bin\Release\net5.0-windows\publish\Mateusz Czernik.dll
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\bin\Release\net5.0-windows\publish\Mateusz Czernik.deps.json
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\bin\Release\net5.0-windows\publish\Mateusz Czernik.runtimeconfig.json
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\bin\Release\net5.0-windows\publish\Mateusz Czernik.pdb

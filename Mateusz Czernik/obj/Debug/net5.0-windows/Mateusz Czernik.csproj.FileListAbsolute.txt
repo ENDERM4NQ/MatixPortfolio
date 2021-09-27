@@ -1,0 +1,19 @@
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\bin\Debug\net5.0-windows\Mateusz Czernik.exe
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\bin\Debug\net5.0-windows\Mateusz Czernik.deps.json
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\bin\Debug\net5.0-windows\Mateusz Czernik.runtimeconfig.json
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\bin\Debug\net5.0-windows\Mateusz Czernik.runtimeconfig.dev.json
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\bin\Debug\net5.0-windows\Mateusz Czernik.dll
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\bin\Debug\net5.0-windows\ref\Mateusz Czernik.dll
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\bin\Debug\net5.0-windows\Mateusz Czernik.pdb
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\obj\Debug\net5.0-windows\Mateusz Czernik.csproj.AssemblyReference.cache
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\obj\Debug\net5.0-windows\Mateusz_Czernik.Form1.resources
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\obj\Debug\net5.0-windows\Mateusz_Czernik.Properties.Resources.resources
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\obj\Debug\net5.0-windows\Mateusz Czernik.csproj.GenerateResource.cache
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\obj\Debug\net5.0-windows\Mateusz Czernik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\obj\Debug\net5.0-windows\Mateusz Czernik.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\obj\Debug\net5.0-windows\Mateusz Czernik.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\obj\Debug\net5.0-windows\Mateusz Czernik.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\obj\Debug\net5.0-windows\Mateusz Czernik.dll
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\obj\Debug\net5.0-windows\ref\Mateusz Czernik.dll
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\obj\Debug\net5.0-windows\Mateusz Czernik.pdb
+C:\Users\Kacper\source\repos\Mateusz Czernik\Mateusz Czernik\obj\Debug\net5.0-windows\Mateusz Czernik.genruntimeconfig.cache
