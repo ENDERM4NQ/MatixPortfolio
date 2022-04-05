@@ -1,7 +1,7 @@
 # MatixPortfolio
 Matix/Mareczekkk dox/DigitalPortfolio
 
-I was bored LAMO
+I was bored LMAO
 (I cant be asked to  add translated version so translation below)
 Imie = Name
 Nazwisko = LastName
